@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-07-15 00:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Yay! Graduated from [IIT Bhubaneswar](https://www.iitbbs.ac.in/) with BTech (Honors) in CSE! 🎓

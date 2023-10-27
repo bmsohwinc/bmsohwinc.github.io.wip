@@ -17,4 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Sourabha!
+Hello! I am Sourabha, formerly a Software Engineer at [DE Shaw India](https://www.deshawindia.com/), where I built and optimized Data Warehouses and myriad Dashboards to assist leadership teams make data-driven decisions more confidently.
+
+I did my B.Tech (Honors) in Computer Science and Engineering at [IIT Bhubaneswar](https://www.iitbbs.ac.in/).
+
+During my undergraduate, I was strongly associated with [Dr. Sudipta Saha](https://www.iitbbs.ac.in/profile.php/sudipta/)'s research group [Decentralized and Smart Systems Research Group (DSSRG)](https://sites.google.com/iitbbs.ac.in/dssrg), working on projects spun across Wireless Networks, Operating Systems, X11 Windows, and Computer Vision.
+
+My research interests lie at the merger between **Systems and AI/ML**. ML used for optimizing operating system's caching or scheduling algorithms, or, optimizing network protocols or storage/processing systems to enable optimal data processing excites me.
+
+Outside work, I like playing chess, reading books, and observing insects.
