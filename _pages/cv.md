@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
@@ -11,4 +11,4 @@ toc:
   sidebar: left
 ---
 
-WIP
+Redirecting to my CV...

@@ -4,8 +4,8 @@
 
 title: Sourabha Bharadwaj # the website title (if blank, full name will be used instead)
 first_name: Sourabha
-middle_name: Bharadwaj
-last_name: BM
+middle_name: 
+last_name: Bharadwaj
 email: bmsb235@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 1000px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 

@@ -9,4 +9,4 @@ giscus_comments: false
 related_posts: false
 related_publications: 
 ---
-Hi there! This a pilot blog post using Jekyll!
+A Pilot blog.
