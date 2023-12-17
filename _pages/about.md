@@ -8,8 +8,14 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Bangalore, India</p>
+  more_info:
+    place: Bangalore, India
+    resume: https://drive.google.com/file/d/1_S_f7rsvOib3rzSdwkQIl9mjA8grnnQ0/view
+    cv: https://drive.google.com/file/d/1TYy2yUYhEJku6D5ucs9aGqkZkMMNFF3_/view
+  # <div>
+  #   <p>Bangalore, India</p>
+  #   <p><a href="https://drive.google.com/file/d/1_S_f7rsvOib3rzSdwkQIl9mjA8grnnQ0/view" target="_blank">Resume</a> / <a href="https://drive.google.com/file/d/1TYy2yUYhEJku6D5ucs9aGqkZkMMNFF3_/view" target="_blank">CV</a></p>
+  # </div>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

@@ -31,7 +31,17 @@ layout: default
             {% endif -%}
             {%- if page.profile.more_info %}
             <div class="more-info">
-              {{ page.profile.more_info }}
+              {{ page.profile.more_info.place }}
+              <div>
+                My 
+                {% if page.profile.more_info.resume -%}
+                  <b><a href="{{ page.profile.more_info.resume }}">Resume</a></b>
+                {%- endif %}
+                 / 
+                {% if page.profile.more_info.cv -%}
+                  <b><a href="{{ page.profile.more_info.cv }}">CV</a></b>
+                {%- endif %}
+              </div>
             </div>
             {%- endif %}
           </div>
