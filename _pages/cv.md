@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /cv/
-title: cv and resume
+title: CV & Resume
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: Resume_Sourabha.pdf
 description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 
 ---

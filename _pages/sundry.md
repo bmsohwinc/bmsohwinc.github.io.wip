@@ -1,6 +1,6 @@
 ---
 layout: default
-title: sundry
+title: Sundry
 permalink: /sundry/
 subtitle: 
 nav: true
