@@ -10,5 +10,5 @@ description: This is a description of the page. You can modify it in 'pages/_cv.
 ---
 
 ## Journey
-- Please find my **Resume** [here](https://drive.google.com/file/d/1AX3Xi5_f-huL7JC9gZug8rBA3V7GpqHp/view)
+- Please find my **Resume** [here](https://drive.google.com/file/d/1IM5fxhsskSJFyTk9XMQTr4aRmJgNvBEi/view)
 - Please find my **CV** [here](https://drive.google.com/file/d/1TYy2yUYhEJku6D5ucs9aGqkZkMMNFF3_/view)

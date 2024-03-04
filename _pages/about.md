@@ -14,7 +14,7 @@ profile:
     cv: https://drive.google.com/file/d/1TYy2yUYhEJku6D5ucs9aGqkZkMMNFF3_/view
   # <div>
   #   <p>Bangalore, India</p>
-  #   <p><a href="https://drive.google.com/file/d/1_S_f7rsvOib3rzSdwkQIl9mjA8grnnQ0/view" target="_blank">Resume</a> / <a href="https://drive.google.com/file/d/1TYy2yUYhEJku6D5ucs9aGqkZkMMNFF3_/view" target="_blank">CV</a></p>
+  #   <p><a href="https://drive.google.com/file/d/1IM5fxhsskSJFyTk9XMQTr4aRmJgNvBEi/view" target="_blank">Resume</a> / <a href="https://drive.google.com/file/d/1TYy2yUYhEJku6D5ucs9aGqkZkMMNFF3_/view" target="_blank">CV</a></p>
   # </div>
 
 news: true  # includes a list of news items
