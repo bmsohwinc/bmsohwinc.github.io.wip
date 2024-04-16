@@ -77,7 +77,7 @@ scholar_userid: qFe2vygAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: bmsb235 # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Email is the best way to reach me.
+  Email me to spark a chat!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -154,7 +154,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-
+external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@bmsb235/feed
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
