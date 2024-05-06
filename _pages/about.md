@@ -11,7 +11,6 @@ profile:
   more_info:
     place: Bangalore, India
     resume: https://drive.google.com/file/d/1Xw6XoxWbdfZwhWp7YhD66ocCZW8MnKMq/view
-    cv: https://drive.google.com/file/d/1TYy2yUYhEJku6D5ucs9aGqkZkMMNFF3_/view
   # <div>
   #   <p>Bangalore, India</p>
   #   <p><a href="https://drive.google.com/file/d/1Xw6XoxWbdfZwhWp7YhD66ocCZW8MnKMq/view" target="_blank">Resume</a></p>
