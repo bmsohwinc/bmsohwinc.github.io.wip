@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am Sourabha, formerly a Software Engineer (Member Technical) at [DE Shaw India](https://www.deshawindia.com/), where I specialized in enhancing massive Data warehouses and building real-time Analytics Dashboards for the Executive teams.
 
-While my skills primarily lie in Full-Stack development (Java, Spring, JavaScript, React, and SQL), I'm equally passionate about AI/ML, and the recent rise of LLMs and their applications.
+While my skills primarily lie in **Full-Stack development** (Java, Spring, JavaScript, React, and SQL), I'm equally passionate about AI/ML, and the recent rise of LLMs and their applications.
 
-I'm a firm believer in Prof. Richar P. Feynman's [quote about learning](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand):
+I'm a firm believer in Prof. Richard P. Feynman's [quote about learning](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand):
 > _What I cannot create, I do not understand._
 
 Hence, I constantly keep exploring and building upon any new technology I come across and stay active on [GitHub](https://github.com/bmsohwinc)/[StackOverflow](https://stackoverflow.com/users/9247555/bms-bharadwaj), and [LinkedIn](https://www.linkedin.com/in/sourabha235/)/[Twitter](https://twitter.com/BmSourabha).
