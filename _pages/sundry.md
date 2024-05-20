@@ -28,3 +28,4 @@ Collection of gems from across the web.
 ### General
 - Quantifying [your work](https://www.linkedin.com/posts/adamrbroda_resumetips-careertips-jobsearchtips-activity-7165707377231556612-K0MU?utm_source=share&utm_medium=member_desktop)
 - [This post](https://www.linkedin.com/posts/nicolaballotta_engineering-careergrowth-leadership-activity-7141834365977739264-f8mO?utm_source=share&utm_medium=member_desktop) by Nicola Ballotta on Tech News Letters
+- Must read research [papers and blogs](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
