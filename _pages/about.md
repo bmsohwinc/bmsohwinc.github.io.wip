@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
     place: Bangalore, India
-    resume: https://drive.google.com/file/d/1Xw6XoxWbdfZwhWp7YhD66ocCZW8MnKMq/view
+    resume: https://drive.google.com/file/d/1sZduxAzhEazxb7zTb5AdjfaeKBOBcW6c/view
   # <div>
   #   <p>Bangalore, India</p>
-  #   <p><a href="https://drive.google.com/file/d/1Xw6XoxWbdfZwhWp7YhD66ocCZW8MnKMq/view" target="_blank">Resume</a></p>
+  #   <p><a href="https://drive.google.com/file/d/1sZduxAzhEazxb7zTb5AdjfaeKBOBcW6c/view" target="_blank">Resume</a></p>
   # </div>
 
 news: true  # includes a list of news items
@@ -35,4 +35,4 @@ I graduated from [IIT Bhubaneswar](https://www.iitbbs.ac.in/) in 2021 with a B.T
 
 During my undergraduate, I was strongly associated with [Dr. Sudipta Saha](https://www.iitbbs.ac.in/profile.php/sudipta/)'s research group [Decentralized and Smart Systems Research Group (DSSRG)](https://sites.google.com/iitbbs.ac.in/dssrg), working on projects spun across Wireless Networks, Operating Systems, X11 Windows, and Computer Vision.
 
-Outside work, I like playing chess, reading books, and observing insects.
+Outside work, I like gardening and reading books.
