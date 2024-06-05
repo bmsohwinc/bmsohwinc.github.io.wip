@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
     place: Bangalore, India
-    resume: https://drive.google.com/file/d/1sZduxAzhEazxb7zTb5AdjfaeKBOBcW6c/view
+    resume: https://drive.google.com/file/d/1kEO9kWHDoqNN-y78bBxNVhAWFXcnQSXX/view
   # <div>
   #   <p>Bangalore, India</p>
-  #   <p><a href="https://drive.google.com/file/d/1sZduxAzhEazxb7zTb5AdjfaeKBOBcW6c/view" target="_blank">Resume</a></p>
+  #   <p><a href="https://drive.google.com/file/d/1kEO9kWHDoqNN-y78bBxNVhAWFXcnQSXX/view" target="_blank">Resume</a></p>
   # </div>
 
 news: true  # includes a list of news items
